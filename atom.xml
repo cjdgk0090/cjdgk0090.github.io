@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>IT기반기술교육 블로그</description>
+    <description></description>
     <link>
     https://cjdgk0090.github.io</link>
     
       
       <item>
-        <title>(1) jekyll 강좌</title>
+        <title>간단한 마크다운 사용법</title>
         
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;assets/built/images/markdown-heading.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌 (2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;이 글은 jekyll basic 입니다!!&lt;/p&gt;
-<<<<<<< HEAD
-=======
-
->>>>>>> 650676d (d)
 </description>
         
-        <pubDate>Fri, 28 Sep 2018 01:40:00 +0900</pubDate>
+        <pubDate>Thu, 18 May 2023 01:40:00 +0900</pubDate>
         <link>
-        https://cjdgk0090.github.io/jekyll_basic</link>
-        <guid isPermaLink="true">https://cjdgk0090.github.io/jekyll_basic</guid>
+        https://cjdgk0090.github.io/markdown_basic</link>
+        <guid isPermaLink="true">https://cjdgk0090.github.io/markdown_basic</guid>
       </item>
       
     
       
       <item>
-        <title>Gettysburg Address</title>
+        <title>외부에서 로컬호스트(localhost) 접속하는 방법</title>
         
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-
-&lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌 (2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+          <description>&lt;p&gt;localtunnel은 클라이언트-서버 터널링을 위한 터미널 프로그램입니다.&lt;/p&gt;
 
 </description>
         
-        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <pubDate>Thu, 18 May 2023 01:40:00 +0900</pubDate>
         <link>
-        https://cjdgk0090.github.io/gettysburg-address</link>
-        <guid isPermaLink="true">https://cjdgk0090.github.io/gettysburg-address</guid>
+        https://cjdgk0090.github.io/localtunnel</link>
+        <guid isPermaLink="true">https://cjdgk0090.github.io/localtunnel</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>jekyll기반 gitblog만들기</title>
+        
+          <description>&lt;p&gt;업로드 예정&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 18 May 2023 01:40:00 +0900</pubDate>
+        <link>
+        https://cjdgk0090.github.io/jekyll_basic</link>
+        <guid isPermaLink="true">https://cjdgk0090.github.io/jekyll_basic</guid>
       </item>
       
     

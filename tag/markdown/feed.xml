@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://cjdgk0090.github.io/tag/markdown/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://cjdgk0090.github.io/" rel="alternate" type="text/html" />
+  <updated>2023-05-22T12:46:35+09:00</updated>
+  <id>https://cjdgk0090.github.io/tag/markdown/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">공부 블로그 | </title>
+  
+
+  
+
+  
+
+  
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">간단한 마크다운 사용법</title>
+      <link href="https://cjdgk0090.github.io/markdown_basic" rel="alternate" type="text/html" title="간단한 마크다운 사용법" />
+      <published>2023-05-18T01:40:00+09:00</published>
+      <updated>2023-05-18T01:40:00+09:00</updated>
+      <id>https://cjdgk0090.github.io/markdown_basic</id>
+      <content type="html" xml:base="https://cjdgk0090.github.io/markdown_basic">&lt;p&gt;&lt;img src=&quot;assets/built/images/markdown-heading.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;# 한칸 띄면 heading 1 이 적용됩니다.&lt;/p&gt;
+
+&lt;p&gt;단어의 양쪽에 ** 별을 두개씩 감싸주면 bold체가 됩니다.&lt;/p&gt;
+
+&lt;p&gt;단어의 양쪽에 * 별을 한개씩 감싸주면 이탤릭체가 됩니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/built/images/markdown-quote.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;화살표 &amp;gt; 다음에 한칸 띄면 인용구로 만들 수 있고&lt;/p&gt;
+
+&lt;p&gt;별 * 한칸 띄면 불릿 적용이 가능합니다. (불릿은 - 로도 만들 수 있습니다.)&lt;/p&gt;
+
+&lt;p&gt;숫자를 붙여서 인덱스를 넣을 수 도 있습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/built/images/markdown-link.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click [원하는 단어나 문장 ](url 경로) - 링크를 연결할 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;![이미지 설명](이미지 경로) - 이미지 삽입을 할 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/built/images/markdown-table.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;테이블을 만드려면 | | 사이에 table head 내용을 넣고 |—||—| 로 닫아준 후&lt;/p&gt;
+
+&lt;p&gt;그 아래에 table body를 만들면 됩니다.&lt;/p&gt;
+
+&lt;p&gt;코드를 넣으려면  ``(백틱) 안에 넣어주면 되고 코드 내용이 많다면 ``` 백틱 세개 안에 넣어주면 됩니다.&lt;/p&gt;
+
+&lt;p&gt;참고한 유투브 링크
+&lt;a href=&quot;https://www.youtube.com/watch?v=kMEb_BzyUqk&quot;&gt;&lt;img src=&quot;assets/built/images/youtube.jpg&quot; alt=&quot;출처&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;이 포스팅은 개인 학습 및 정리용 포스팅입니다.&lt;/p&gt;
+
+&lt;p&gt;오타나 문제가 있는 경우 댓글 부탁드리겠습니다.&lt;/p&gt;
+
+&lt;p&gt;감사합니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>cjdgk233</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="MarkDown" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

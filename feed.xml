@@ -1,32 +1,87 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://cjdgk0090.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cjdgk0090.github.io/" rel="alternate" type="text/html" /><updated>2023-05-16T17:27:36+09:00</updated><id>https://cjdgk0090.github.io/feed.xml</id><title type="html">IT Technical Training</title><subtitle>IT기반기술교육 블로그</subtitle><entry><title type="html">(1) jekyll 강좌</title><link href="https://cjdgk0090.github.io/jekyll_basic" rel="alternate" type="text/html" title="(1) jekyll 강좌" /><published>2018-09-28T01:40:00+09:00</published><updated>2018-09-28T01:40:00+09:00</updated><id>https://cjdgk0090.github.io/jekyll_basic</id><content type="html" xml:base="https://cjdgk0090.github.io/jekyll_basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-=======
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://cjdgk0090.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cjdgk0090.github.io/" rel="alternate" type="text/html" /><updated>2023-05-16T21:23:19+09:00</updated><id>https://cjdgk0090.github.io/feed.xml</id><title type="html">IT Technical Training</title><subtitle>IT기반기술교육 블로그</subtitle><entry><title type="html">(1) jekyll 강좌</title><link href="https://cjdgk0090.github.io/jekyll_basic" rel="alternate" type="text/html" title="(1) jekyll 강좌" /><published>2018-09-28T01:40:00+09:00</published><updated>2018-09-28T01:40:00+09:00</updated><id>https://cjdgk0090.github.io/jekyll_basic</id><content type="html" xml:base="https://cjdgk0090.github.io/jekyll_basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
->>>>>>> 650676d (d)
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://cjdgk0090.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cjdgk0090.github.io/" rel="alternate" type="text/html" /><updated>2023-05-22T12:46:35+09:00</updated><id>https://cjdgk0090.github.io/feed.xml</id><title type="html">공부 블로그</title><entry><title type="html">간단한 마크다운 사용법</title><link href="https://cjdgk0090.github.io/markdown_basic" rel="alternate" type="text/html" title="간단한 마크다운 사용법" /><published>2023-05-18T01:40:00+09:00</published><updated>2023-05-18T01:40:00+09:00</updated><id>https://cjdgk0090.github.io/markdown_basic</id><content type="html" xml:base="https://cjdgk0090.github.io/markdown_basic">&lt;p&gt;&lt;img src=&quot;assets/built/images/markdown-heading.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌 (2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-<<<<<<< HEAD
-&lt;p&gt;이 글은 jekyll basic 입니다!!&lt;/p&gt;</content><author><name>cjdgk233</name></author><category term="jekyll" /><summary type="html">Python강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌 (2) - Python 제어문 이 글은 jekyll basic 입니다!!</summary></entry><entry><title type="html">Gettysburg Address</title><link href="https://cjdgk0090.github.io/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" /><published>1863-11-19T19:18:00+09:00</published><updated>1863-11-19T19:18:00+09:00</updated><id>https://cjdgk0090.github.io/gettysburg-address</id><content type="html" xml:base="https://cjdgk0090.github.io/gettysburg-address">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-=======
-&lt;p&gt;이 글은 jekyll basic 입니다!!&lt;/p&gt;
+&lt;p&gt;# 한칸 띄면 heading 1 이 적용됩니다.&lt;/p&gt;
+
+&lt;p&gt;단어의 양쪽에 ** 별을 두개씩 감싸주면 bold체가 됩니다.&lt;/p&gt;
+
+&lt;p&gt;단어의 양쪽에 * 별을 한개씩 감싸주면 이탤릭체가 됩니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/built/images/markdown-quote.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;화살표 &amp;gt; 다음에 한칸 띄면 인용구로 만들 수 있고&lt;/p&gt;
+
+&lt;p&gt;별 * 한칸 띄면 불릿 적용이 가능합니다. (불릿은 - 로도 만들 수 있습니다.)&lt;/p&gt;
+
+&lt;p&gt;숫자를 붙여서 인덱스를 넣을 수 도 있습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/built/images/markdown-link.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click [원하는 단어나 문장 ](url 경로) - 링크를 연결할 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;![이미지 설명](이미지 경로) - 이미지 삽입을 할 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/built/images/markdown-table.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;테이블을 만드려면 | | 사이에 table head 내용을 넣고 |—||—| 로 닫아준 후&lt;/p&gt;
+
+&lt;p&gt;그 아래에 table body를 만들면 됩니다.&lt;/p&gt;
+
+&lt;p&gt;코드를 넣으려면  ``(백틱) 안에 넣어주면 되고 코드 내용이 많다면 ``` 백틱 세개 안에 넣어주면 됩니다.&lt;/p&gt;
+
+&lt;p&gt;참고한 유투브 링크
+&lt;a href=&quot;https://www.youtube.com/watch?v=kMEb_BzyUqk&quot;&gt;&lt;img src=&quot;assets/built/images/youtube.jpg&quot; alt=&quot;출처&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;이 포스팅은 개인 학습 및 정리용 포스팅입니다.&lt;/p&gt;
+
+&lt;p&gt;오타나 문제가 있는 경우 댓글 부탁드리겠습니다.&lt;/p&gt;
+
+&lt;p&gt;감사합니다.&lt;/p&gt;</content><author><name>cjdgk233</name></author><category term="MarkDown" /><summary type="html"></summary></entry><entry><title type="html">jekyll기반 gitblog만들기</title><link href="https://cjdgk0090.github.io/jekyll_basic" rel="alternate" type="text/html" title="jekyll기반 gitblog만들기" /><published>2023-05-18T01:40:00+09:00</published><updated>2023-05-18T01:40:00+09:00</updated><id>https://cjdgk0090.github.io/jekyll_basic</id><content type="html" xml:base="https://cjdgk0090.github.io/jekyll_basic">&lt;p&gt;업로드 예정&lt;/p&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
 &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;syntaxHighlight&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Hello World&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;}&lt;/span&gt;
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>cjdgk233</name></author><category term="jekyll" /><summary type="html">Python강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌 (2) - Python 제어문 이 글은 jekyll basic 입니다!!</summary></entry><entry><title type="html">Gettysburg Address</title><link href="https://cjdgk0090.github.io/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" /><published>1863-11-19T19:18:00+09:00</published><updated>1863-11-19T19:18:00+09:00</updated><id>https://cjdgk0090.github.io/gettysburg-address</id><content type="html" xml:base="https://cjdgk0090.github.io/gettysburg-address">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
->>>>>>> 650676d (d)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
 
 &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌 (2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>cjdgk233</name></author><category term="jekyll" /><summary type="html">업로드 예정</summary></entry><entry><title type="html">외부에서 로컬호스트(localhost) 접속하는 방법</title><link href="https://cjdgk0090.github.io/localtunnel" rel="alternate" type="text/html" title="외부에서 로컬호스트(localhost) 접속하는 방법" /><published>2023-05-18T01:40:00+09:00</published><updated>2023-05-18T01:40:00+09:00</updated><id>https://cjdgk0090.github.io/localtunnel</id><content type="html" xml:base="https://cjdgk0090.github.io/localtunnel">&lt;p&gt;localtunnel은 클라이언트-서버 터널링을 위한 터미널 프로그램입니다.&lt;/p&gt;
 
-&lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
+&lt;p&gt;localtunnel 은 내 로컬 환경을 외부에서 접속해 볼 수 있는 주소를 만들어줍니다.&lt;/p&gt;
 
-&lt;p&gt;But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.&lt;/p&gt;</content><author><name>abraham</name></author><summary type="html">Python강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌 (2) - Python 제어문 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</summary></entry></feed>
+&lt;p&gt;Node.js 패키지이기 때문에 npm 으로 설치해서 사용할 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;먼저 node.js가 설치 되어 있어야 합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://nodejs.org/ko&quot;&gt;node.js 이동 링크 &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;설치 후 cmd창을 열어 node -v 명령어를 통해 node.js가 설치되어 있는지 확인합니다.&lt;/p&gt;
+
+&lt;p&gt;node.js의 버전이 나오면 설치가 된 것입니다.&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;nx&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;g&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;localtunnel&lt;/span&gt;
+ 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;npm install -g localtunnel : localtunnel 을 전역 설치해줍니다.&lt;/p&gt;
+
+&lt;p&gt;설치가 완료되면  lt –port  [포트번호] -subdomain [도메인 이름] 를 실행합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/built/images/localtunnel-content1.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;그러면  원격 사용자가 연결할 수있는 URL을 받게 됩니다.
+&lt;img src=&quot;assets/built/images/localtunnel-content2.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이동한 페이지에서 빨간색 네모를 클릭해서 공용 IP 주소를 받아 가운데 입력란에 넣으면 됩니다.
+&lt;img src=&quot;assets/built/images/localtunnel-content3.jpg&quot; alt=&quot;마크다운&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이 포스팅은 개인 학습 및 정리용 포스팅입니다.&lt;/p&gt;
+
+&lt;p&gt;오타나 문제가 있는 경우 댓글 부탁드리겠습니다.&lt;/p&gt;
+
+&lt;p&gt;감사합니다.&lt;/p&gt;</content><author><name>cjdgk233</name></author><category term="localtunnel" /><summary type="html">localtunnel은 클라이언트-서버 터널링을 위한 터미널 프로그램입니다.</summary></entry></feed>
