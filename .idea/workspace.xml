@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be49de1e-a029-4567-9cec-1f4484b7366b" name="Changes" comment="commit3" />
+    <list default="true" id="be49de1e-a029-4567-9cec-1f4484b7366b" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
@@ -41,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684750466552</updated>
       <workItem from="1684750467579" duration="533000" />
+      <workItem from="1684751016107" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1684750503606</created>
@@ -112,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684750937164</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml">
+      <created>1684751033852</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684751033852</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml">
+      <created>1684751126983</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684751126983</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,8 +148,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="d" />
     <MESSAGE value="commit2" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml" />
     <MESSAGE value="commit3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml" />
   </component>
 </project>
