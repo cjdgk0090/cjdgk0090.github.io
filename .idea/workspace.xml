@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="be49de1e-a029-4567-9cec-1f4484b7366b" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml" />
+    <list default="true" id="be49de1e-a029-4567-9cec-1f4484b7366b" name="Changes" comment="commit3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +14,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Q90PcvQO6P8NCtB9AMzLfRUFFx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -33,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684750466552</updated>
-      <workItem from="1684750467579" duration="374000" />
+      <workItem from="1684750467579" duration="533000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1684750503606</created>
@@ -56,7 +63,56 @@
       <option name="project" value="LOCAL" />
       <updated>1684750578714</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml">
+      <created>1684750854844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684750854844</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml">
+      <created>1684750884597</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684750884597</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml">
+      <created>1684750891637</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684750891637</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml">
+      <created>1684750901704</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684750901704</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit3">
+      <created>1684750924977</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684750924977</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit3">
+      <created>1684750930566</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684750930566</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit3">
+      <created>1684750937164</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684750937164</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +133,7 @@
     <MESSAGE value="d" />
     <MESSAGE value="commit2" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml" />
+    <MESSAGE value="commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
   </component>
 </project>
