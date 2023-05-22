@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://cjdgk0090.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://cjdgk0090.github.io/" rel="alternate" type="text/html" />
+  <updated>2023-05-22T13:07:07+09:00</updated>
+  <id>https://cjdgk0090.github.io/tag/jekyll/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">공부 블로그 | </title>
+  
+
+  
+
+  
+
+  
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+      
+				<author></author>
+        <author>
+            <name></name>
+          
+          
+        </author>
+			
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">jekyll기반 gitblog만들기</title>
+      <link href="https://cjdgk0090.github.io/jekyll_basic" rel="alternate" type="text/html" title="jekyll기반 gitblog만들기" />
+      <published>2023-05-18T01:40:00+09:00</published>
+      <updated>2023-05-18T01:40:00+09:00</updated>
+      <id>https://cjdgk0090.github.io/jekyll_basic</id>
+      <content type="html" xml:base="https://cjdgk0090.github.io/jekyll_basic">&lt;p&gt;업로드 예정&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;syntaxHighlight&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Hello World&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+
+&lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌 (2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>cjdgk233</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+
+      
+        <summary type="html">업로드 예정</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
