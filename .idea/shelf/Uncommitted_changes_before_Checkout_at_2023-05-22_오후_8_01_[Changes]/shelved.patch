@@ -1,0 +1,89 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"be49de1e-a029-4567-9cec-1f4484b7366b\" name=\"Changes\" comment=\"Delete .idea directory\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Merge.Settings\">\r\n    <option name=\"BRANCH\" value=\"origin/main\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Q90PcvQO6P8NCtB9AMzLfRUFFx\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/blogmaker/[GitHubPage]&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"be49de1e-a029-4567-9cec-1f4484b7366b\" name=\"Changes\" comment=\"\" />\r\n      <created>1684750466552</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1684750466552</updated>\r\n      <workItem from=\"1684750467579\" duration=\"533000\" />\r\n      <workItem from=\"1684751016107\" duration=\"127000\" />\r\n      <workItem from=\"1684751180597\" duration=\"635000\" />\r\n      <workItem from=\"1684751879610\" duration=\"210000\" />\r\n      <workItem from=\"1684752100690\" duration=\"21000\" />\r\n      <workItem from=\"1684752176077\" duration=\"109000\" />\r\n      <workItem from=\"1684752330216\" duration=\"80000\" />\r\n      <workItem from=\"1684752453809\" duration=\"97000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"d\">\r\n      <created>1684750503606</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750503606</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"d\">\r\n      <created>1684750533322</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750533322</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml\">\r\n      <created>1684750578714</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750578714</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml\">\r\n      <created>1684750854844</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750854844</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml\">\r\n      <created>1684750884597</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750884597</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml\">\r\n      <created>1684750891637</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750891637</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml\">\r\n      <created>1684750901704</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750901704</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"commit3\">\r\n      <created>1684750924977</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750924977</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"commit3\">\r\n      <created>1684750930566</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750930566</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"commit3\">\r\n      <created>1684750937164</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684750937164</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml\">\r\n      <created>1684751033852</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684751033852</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml\">\r\n      <created>1684751126983</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684751126983</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"change content\">\r\n      <created>1684751207502</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684751207502</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"change content\">\r\n      <created>1684751219509</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684751219509</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"new\">\r\n      <created>1684751895110</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684751895110</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"new\">\r\n      <created>1684751903495</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684751903495</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"new\">\r\n      <created>1684752371197</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684752371197</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"commit4\">\r\n      <created>1684752468287</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684752468287</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"commit4\">\r\n      <created>1684752475523</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1684752475523</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"20\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"d\" />\r\n    <MESSAGE value=\"commit2\" />\r\n    <MESSAGE value=\"commit3\" />\r\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;feed.xml&#10;#&#9;tag/localtunnel/feed.xml&#10;#&#9;tag/markdown/feed.xml\" />\r\n    <MESSAGE value=\"change content\" />\r\n    <MESSAGE value=\"new\" />\r\n    <MESSAGE value=\"new2\" />\r\n    <MESSAGE value=\"commit4\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"commit4\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -14,6 +14,11 @@
+     <option name="BRANCH" value="origin/main" />
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="2Q90PcvQO6P8NCtB9AMzLfRUFFx" />
+@@ -21,21 +26,20 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/blogmaker/[GitHubPage]&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "last_opened_file_path": "C:/blogmaker/[GitHubPage]",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -52,6 +56,7 @@
+       <workItem from="1684752176077" duration="109000" />
+       <workItem from="1684752330216" duration="80000" />
+       <workItem from="1684752453809" duration="97000" />
++      <workItem from="1684752596250" duration="681000" />
+     </task>
+     <task id="LOCAL-00001" summary="d">
+       <created>1684750503606</created>
+@@ -186,7 +191,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1684752475523</updated>
+     </task>
+-    <option name="localTasksCounter" value="20" />
++    <task id="LOCAL-00020" summary="Delete .idea directory">
++      <created>1684752735337</created>
++      <option name="number" value="00020" />
++      <option name="presentableId" value="LOCAL-00020" />
++      <option name="project" value="LOCAL" />
++      <updated>1684752735337</updated>
++    </task>
++    <option name="localTasksCounter" value="21" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -212,6 +224,7 @@
+     <MESSAGE value="new" />
+     <MESSAGE value="new2" />
+     <MESSAGE value="commit4" />
+-    <option name="LAST_COMMIT_MESSAGE" value="commit4" />
++    <MESSAGE value="Delete .idea directory" />
++    <option name="LAST_COMMIT_MESSAGE" value="Delete .idea directory" />
+   </component>
+ </project>
+\ No newline at end of file
